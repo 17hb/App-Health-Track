@@ -1,0 +1,85 @@
+*  {
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background: #BCF5DA; 
+    padding: 5px;
+}
+
+
+.cadastrorodape{
+    background: #BCF5DA;
+    padding: 5px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+#copyright {
+    text-align: center;
+    margin: 0;
+    color:  rgb(10, 9, 9);
+}
+
+.nav nav-pills nav-fill {
+    justify-content: space-between;
+}
+
+.login_brand {
+     
+    background-image: url(../assets/he.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.face {
+    margin-bottom: 0;
+}
+
+.imagem-login {
+    background-image: url(html/assets/Health.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+#bg-perfil {
+    background-color: rgba(186, 245, 230, 0.500);
+    width: 800px;
+    margin:0 auto;
+    height: inherit;
+}
+
+#bg-tabela {
+    background-color: rgba(186, 245, 230, 0.500);
+    width: 0px;
+    margin:0 auto; 
+}
+
+.login_brand1 {
+     
+    background-image: url(../assets/tenis.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.login_brand2 {
+     
+    background-image: url(../assets/couple.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+.Login_Health > #link-button > .btn  {
+    text-decoration:none;
+    text-transform: none;
+}
