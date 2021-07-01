@@ -12,13 +12,13 @@ Cada aba de treino possui links que direcionam para paginas registradas do naveg
 
 ## Pagina de Login
 
-![screenshot](Caplogin.png?raw=true "screenshot")
+![screenshot](caplogin.PNG?raw=true "screenshot")
 
 
 
 ## Dashboard
 
-![screenshot](Caphome.png?raw=true "screenshot")
+![screenshot](Caphome.PNG?raw=true "screenshot")
 
 
 
